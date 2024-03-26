@@ -4,8 +4,8 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 
 
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">Sou um desenvolvedor web full-stack com uma paixão por resolver desafios complexos usando tecnologia. Durante minha jornada profissional, mergulhei fundo no mundo do desenvolvimento web, adquirindo habilidades práticas e conhecimentos em diversas tecnologias, incluindo HTML, CSS, JavaScript, e Ruby on Rails. Além disso, trago uma valiosa experiência empreendedora do mercado de empréstimo consignado, onde aprendi a liderar equipes, coordenar projetos e encontrar soluções eficazes para os desafios do dia a dia.</p>
+<p align="center">Meu objetivo é equilibrar minhas habilidades técnicas com competências gerenciais, buscando constantemente melhorar e otimizar o software por meio de metodologias ágeis. Estou animado para enfrentar novos desafios e contribuir para projetos inovadores, aplicando o conhecimento e a experiência que adquiri ao longo da minha jornada.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
