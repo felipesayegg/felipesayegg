@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% height=200px src="https://images.unsplash.com/photo-1607970669494-309137683be5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% height=450px src="https://images.unsplash.com/photo-1607970669494-309137683be5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 
 
 <p align="center">I'm a full-stack web developer with a passion for tackling complex challenges using technology. Throughout my professional journey, I've immersed myself in the world of web development, acquiring practical skills and knowledge in various technologies, including HTML, CSS, JavaScript, and Ruby on Rails. Additionally, I bring valuable entrepreneurial experience from the consigned loan market, where I learned to lead teams, coordinate projects, and find effective solutions to everyday challenges.</p>
