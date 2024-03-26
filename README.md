@@ -2,10 +2,11 @@
 
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+<p align="center">I'm a full-stack web developer with a passion for tackling complex challenges using technology. Throughout my professional journey, I've immersed myself in the world of web development, acquiring practical skills and knowledge in various technologies, including HTML, CSS, JavaScript, and Ruby on Rails. Additionally, I bring valuable entrepreneurial experience from the consigned loan market, where I learned to lead teams, coordinate projects, and find effective solutions to everyday challenges.</p>
+<p align="center">My goal is to balance my technical skills with managerial competencies, constantly seeking to improve and optimize software through agile methodologies. I'm excited to take on new challenges and contribute to innovative projects, applying the knowledge and experience I've gained along my journey.</p>&nbsp;
 
 
-<p align="center">Sou um desenvolvedor web full-stack com uma paixão por resolver desafios complexos usando tecnologia. Durante minha jornada profissional, mergulhei fundo no mundo do desenvolvimento web, adquirindo habilidades práticas e conhecimentos em diversas tecnologias, incluindo HTML, CSS, JavaScript, e Ruby on Rails. Além disso, trago uma valiosa experiência empreendedora do mercado de empréstimo consignado, onde aprendi a liderar equipes, coordenar projetos e encontrar soluções eficazes para os desafios do dia a dia.</p>
-<p align="center">Meu objetivo é equilibrar minhas habilidades técnicas com competências gerenciais, buscando constantemente melhorar e otimizar o software por meio de metodologias ágeis. Estou animado para enfrentar novos desafios e contribuir para projetos inovadores, aplicando o conhecimento e a experiência que adquiri ao longo da minha jornada.</p>&nbsp;
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
