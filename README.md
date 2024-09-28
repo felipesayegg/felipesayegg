@@ -4,8 +4,9 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% height=450px src="https://images.unsplash.com/photo-1607970669494-309137683be5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 
 
-<p align="center">I'm a full-stack web developer with a passion for tackling complex challenges using technology. Throughout my professional journey, I've immersed myself in the world of web development, acquiring practical skills and knowledge in various technologies, including HTML, CSS, JavaScript, and Ruby on Rails. Additionally, I bring valuable entrepreneurial experience from the consigned loan market, where I learned to lead teams, coordinate projects, and find effective solutions to everyday challenges.</p>
-<p align="center">My goal is to balance my technical skills with managerial competencies, constantly seeking to improve and optimize software through agile methodologies. I'm excited to take on new challenges and contribute to innovative projects, applying the knowledge and experience I've gained along my journey.</p>&nbsp;
+<p align="center">Atualmente, estou direcionando meus esforços para a área de Ciência de Dados e Machine Learning, buscando aplicar meu conhecimento técnico para criar soluções inovadoras e orientadas por dados. Meu objetivo é equilibrar minhas habilidades técnicas com competências gerenciais, sempre buscando aprimorar e otimizar processos e softwares utilizando metodologias ágeis..</p>
+<p align="center">Possuo uma base sólida em empreendedorismo e desenvolvimento web, com experiência prática em tecnologias como HTML, CSS, JavaScript e Ruby on Rails. Além disso, minha experiência no mercado de empréstimos consignados me ensinou a liderar equipes, coordenar projetos e encontrar soluções eficazes para desafios cotidianos.</p>&nbsp;
+<p align="center">Estou animado para enfrentar novos desafios e contribuir com projetos inovadores, aplicando tudo o que aprendi até agora e expandindo meus conhecimentos no campo de dados.</p>&nbsp;
 
 
 
