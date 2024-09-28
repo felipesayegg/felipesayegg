@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% height=450px src="https://images.unsplash.com/photo-1607970669494-309137683be5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% height=450px src="https://i0.wp.com/neptune.ai/wp-content/uploads/2022/10/colab-directory.png?ssl=1" />
 
 
 <p align="center">Atualmente, estou direcionando meus esforços para a área de Ciência de Dados e Machine Learning, buscando aplicar meu conhecimento técnico para criar soluções inovadoras e orientadas por dados. Meu objetivo é equilibrar minhas habilidades técnicas com competências gerenciais, sempre buscando aprimorar e otimizar processos e softwares utilizando metodologias ágeis..</p>
